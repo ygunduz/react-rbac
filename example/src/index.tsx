@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import roles from './roles';
 import App from './App';
-import { RBACProvider } from 'muap-rbac'
+import { RBACProvider } from 'muap-rbac';
 
 ReactDOM.render(
   <React.StrictMode>
